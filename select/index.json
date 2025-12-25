@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "なんだか眠そうですね",
+  "base_artist": "弌誠",
+  "createdAt": "2025-12-25T02:49:53.159675Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "なんだか眠そうですね",
+      "artist": "弌誠",
+      "has_synced": false,
+      "path": "select/pl_01_なんだか眠そうですね_弌誠.txt"
+    }
+  ]
+}
